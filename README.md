@@ -14,6 +14,15 @@
 - [Markdown-based Tools](#markdown-based-tools)
 - [Databases and Repositories](#databases-and-repositories)
 
+
+|-------------|-------------------------------|
+| 🖥️          | Desktop (Windows/macOS/Linux)  |
+| 📱          | Mobile (iOS/Android)           |
+| 🌐          | Web-based                      |
+| 🧑‍🤝‍🧑     | Collaborative Features         |
+
+
+
 ---
 
 ## Note-taking and Knowledge Management Apps
