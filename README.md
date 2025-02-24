@@ -15,35 +15,60 @@
 - [Databases and Repositories](#databases-and-repositories)
 
 
-|-------------|-------------------------------|
-| 🖥️          | Desktop (Windows/macOS/Linux)  |
-| 📱          | Mobile (iOS/Android)           |
-| 🌐          | Web-based                      |
-| 🧑‍🤝‍🧑     | Collaborative Features         |
+## Note-taking and Knowledge Management Apps
+
+- **[Obsidian](https://obsidian.md)** 🖥️📱  
+  Markdown-based note editor with bidirectional linking and a graph view for connected notes. **Free** (but not fully open-source) with plugins for customization. 🏛️
+
+- **[Joplin](https://joplinapp.org)** 🖥️📱🌐  
+  Open-source note-taking and to-do app with end-to-end encryption, Markdown support, and synchronization with cloud services. 🐧
+
+- **[Logseq](https://logseq.com)** 🖥️📱  
+  A privacy-first, open-source knowledge management system based on a graph structure. Strong focus on bidirectional links and personal knowledge graphs. 🐧
+
+- **[TiddlyWiki](https://tiddlywiki.com)** 🖥️🌐  
+  A highly customizable, open-source personal wiki. Great for note-taking, journaling, and knowledge management. 🐧
+
+- **[Standard Notes](https://standardnotes.com)** 🖥️📱🌐  
+  A secure, open-source note-taking app with strong encryption. It emphasizes simplicity and privacy. 🐧
+
+- **[RemNote](https://www.remnote.com)** 🖥️📱🌐  
+  Combines notes and spaced repetition learning for knowledge retention, though not fully open-source, its core features are freely accessible. 🏛️
+
+- **[Anytype](https://anytype.io)** 🖥️📱🌐  
+  A privacy-focused note-taking and personal knowledge management app, currently in development with a focus on offline-first capabilities and decentralized data storage. **Freemium**. 🏛️
+
+- **[Outline](https://www.getoutline.com)** 🖥️📱🌐🧑‍🤝‍🧑  
+  Open-source knowledge base and note-taking tool designed for teams, with a clean user interface and robust collaboration features. Can be self-hosted. 🐧
+
+- **[Notesnook](https://notesnook.com)** 🖥️📱🌐  
+  A privacy-first, encrypted note-taking app with a focus on simplicity and security. It offers both free and premium plans and is a great alternative to Standard Notes. **Freemium**. 🏛️
+
+- **[Notion](https://www.notion.so)** 🖥️📱🌐🧑‍🤝‍🧑  
+  Popular commercial note-taking and productivity app with databases, Kanban boards, and wikis. Widely used for personal and team knowledge management. **Freemium**. 💼
+
+- **[Evernote](https://evernote.com)** 🖥️📱🌐🧑‍🤝‍🧑  
+  Well-known commercial note-taking app with rich text support, to-do lists, and integrations. Available in free and premium plans. 💼
+
+- **[Roam Research](https://roamresearch.com)** 🖥️📱🌐  
+  A note-taking tool for networked thought, focusing on bidirectional linking. Popular among researchers and Zettelkasten enthusiasts. **Paid**. 💼
+
+- **[Craft](https://www.craft.do)** 🖥️📱🌐  
+  A beautifully designed note-taking app for personal and collaborative use, with Markdown support and cross-platform availability. **Freemium**. 💼
+
+- **[Microsoft OneNote](https://www.microsoft.com/en/microsoft-365/onenote/digital-note-taking-app)** 🖥️📱🌐🧑‍🤝‍🧑  
+  Microsoft's widely used note-taking app with cloud syncing, suitable for both personal and collaborative use. Free with Microsoft 365 integrations. 💼
+
+- **[Apple Notes](https://www.apple.com/notes/)** 📱🖥️  
+  Apple's default note-taking app, known for its deep integration with the Apple ecosystem (iOS and macOS). Simple but effective for many users. 💼
+
+- **[Bear](https://bear.app)** 🖥️📱  
+  A minimalist and elegant Markdown-based note-taking app for macOS and iOS, with tagging and to-dos. **Freemium**
 
 
 
 ---
 
-## Note-taking and Knowledge Management Apps
-
-- **[Obsidian](https://obsidian.md)** 🖥️📱  
-  Markdown-based note editor with bidirectional linking and a graph view for connected notes. **Free** (but not fully open source) with plugins for customization.
-  
-- **[Joplin](https://joplinapp.org)** 🖥️📱🌐  
-  Open-source note-taking and to-do app with end-to-end encryption, Markdown support, and synchronization with cloud services.
-
-- **[Logseq](https://logseq.com)** 🖥️📱  
-  A privacy-first, open-source knowledge management system based on a graph structure. Strong focus on bidirectional links and personal knowledge graphs.
-
-- **[TiddlyWiki](https://tiddlywiki.com)** 🖥️🌐  
-  A highly customizable, open-source personal wiki. Great for note-taking, journaling, and knowledge management.
-
-- **[Standard Notes](https://standardnotes.com)** 🖥️📱🌐  
-  A secure, open-source note-taking app with strong encryption. It emphasizes simplicity and privacy.
-
-- **[RemNote](https://www.remnote.com)** 🖥️📱🌐  
-  Combines notes and spaced repetition learning for knowledge retention, though not fully open-source, its core features are freely accessible.
 
 ---
 
